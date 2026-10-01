@@ -1,0 +1,1352 @@
+{
+  "title": "BOOKLET 2026",
+  "width": 596,
+  "height": 843,
+  "numPages": 38,
+  "pageFiles": [
+    "assets/pages/p-01.jpg",
+    "assets/pages/p-02.jpg",
+    "assets/pages/p-03.jpg",
+    "assets/pages/p-04.jpg",
+    "assets/pages/p-05.jpg",
+    "assets/pages/p-06.jpg",
+    "assets/pages/p-07.jpg",
+    "assets/pages/p-08.jpg",
+    "assets/pages/p-09.jpg",
+    "assets/pages/p-10.jpg",
+    "assets/pages/p-11.jpg",
+    "assets/pages/p-12.jpg",
+    "assets/pages/p-13.jpg",
+    "assets/pages/p-14.jpg",
+    "assets/pages/p-15.jpg",
+    "assets/pages/p-16.jpg",
+    "assets/pages/p-17.jpg",
+    "assets/pages/p-18.jpg",
+    "assets/pages/p-19.jpg",
+    "assets/pages/p-20.jpg",
+    "assets/pages/p-21.jpg",
+    "assets/pages/p-22.jpg",
+    "assets/pages/p-23.jpg",
+    "assets/pages/p-24.jpg",
+    "assets/pages/p-25.jpg",
+    "assets/pages/p-26.jpg",
+    "assets/pages/p-27.jpg",
+    "assets/pages/p-28.jpg",
+    "assets/pages/p-29.jpg",
+    "assets/pages/p-30.jpg",
+    "assets/pages/p-31.jpg",
+    "assets/pages/p-32.jpg",
+    "assets/pages/p-33.jpg",
+    "assets/pages/p-34.jpg",
+    "assets/pages/p-35.jpg",
+    "assets/pages/p-36.jpg",
+    "assets/pages/p-37.jpg",
+    "assets/pages/p-38.jpg"
+  ],
+  "bookmarks": [
+    {
+      "type": "page",
+      "page": 1,
+      "title": "BOOKLET 2026",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 2,
+      "title": "RECRUITMENT 2026",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 3,
+      "title": "VỀ  SAIGON  HOTPOT",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 3,
+      "title": "CƠ  CẤU  TỔ  CHỨC",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 3,
+      "title": "CÁC  HOẠT  ĐỘNG",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 3,
+      "title": "JOB  DESCRIPTION",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 3,
+      "title": "TIMELINE  RECRUITMENT 2026",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 3,
+      "title": "CÁC  KÊNH  TRUYỀN  THÔNG",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 4,
+      "title": "RECRUITMENT 2026",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 5,
+      "title": "SAIGON HOTPOT LÀ AI?",
+      "kids": [
+        {
+          "type": "page",
+          "page": 5,
+          "title": "RECRUITMENT 2026"
+        },
+        {
+          "type": "page",
+          "page": 6,
+          "title": "EXPLORE"
+        },
+        {
+          "type": "page",
+          "page": 6,
+          "title": "CONNECT"
+        },
+        {
+          "type": "page",
+          "page": 6,
+          "title": "SHARE"
+        },
+        {
+          "type": "page",
+          "page": 6,
+          "title": "INSPIRE"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 6,
+      "title": "RECRUITMENT 2026",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 7,
+      "title": "TẠI SAO GỌI LÀ SGHP?",
+      "kids": [
+        {
+          "type": "page",
+          "page": 7,
+          "title": "RECRUITMENT 2026"
+        },
+        {
+          "type": "page",
+          "page": 7,
+          "title": "RECRUITMENT 2026"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 8,
+      "title": "SỨ MỆNH - MỤC TIÊU",
+      "kids": [
+        {
+          "type": "page",
+          "page": 8,
+          "title": "Chúng mình mong muốn lan toả hình ảnh Việt Nam tươi đẹp đến bạn bè quốc tế thông qua thế hệ trẻ năng động, tự hào và luôn sẵn sàng kết nối."
+        },
+        {
+          "type": "page",
+          "page": 8,
+          "title": "Đồng thời, xây dựng một thế hệ thanh niên am hiểu văn hoá, vững kỹ năng, tự tin vươn xa - tất cả bằng tinh thần tình nguyện, sẻ chia và hoàn toàn miễn phí."
+        },
+        {
+          "type": "page",
+          "page": 8,
+          "title": "RECRUITMENT 2026"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 9,
+      "title": "SLOGAN",
+      "kids": [
+        {
+          "type": "page",
+          "page": 9,
+          "title": "“Your smile is our success”",
+          "kids": [
+            {
+              "type": "page",
+              "page": 9,
+              "title": "RECRUITMENT 2026"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 10,
+      "title": "GIÁ TRỊ CỐT LÕI",
+      "kids": [
+        {
+          "type": "page",
+          "page": 10,
+          "title": "CHÂN THÀNH",
+          "kids": [
+            {
+              "type": "page",
+              "page": 10,
+              "title": "Chúng mình luôn đề cao sự chân thật và luôn giữ sự trung thực với khách du lịch."
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 10,
+          "title": "NHIỆT HUYẾT",
+          "kids": [
+            {
+              "type": "page",
+              "page": 10,
+              "title": "RECRUITMENT 2026"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 11,
+      "title": "GIÁ TRỊ CỐT LÕI",
+      "kids": [
+        {
+          "type": "page",
+          "page": 11,
+          "title": "THÂN THIỆN"
+        },
+        {
+          "type": "page",
+          "page": 11,
+          "title": "TÔN TRỌNG VĂN HOÁ",
+          "kids": [
+            {
+              "type": "page",
+              "page": 11,
+              "title": "RECRUITMENT 2026"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 12,
+      "title": "CƠ CẤU TỔ CHỨC",
+      "kids": [
+        {
+          "type": "page",
+          "page": 12,
+          "title": " Từ 2025, Saigon Hotpot có 3 Department:"
+        },
+        {
+          "type": "page",
+          "page": 12,
+          "title": "Board of Management",
+          "kids": [
+            {
+              "type": "page",
+              "page": 12,
+              "title": "President"
+            },
+            {
+              "type": "page",
+              "page": 12,
+              "title": "Marketing Department"
+            },
+            {
+              "type": "page",
+              "page": 12,
+              "title": "Human Resources"
+            },
+            {
+              "type": "page",
+              "page": 12,
+              "title": "Tour Department",
+              "kids": [
+                {
+                  "type": "page",
+                  "page": 12,
+                  "title": "RECRUITMENT 2026"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 13,
+      "title": "PRESIDENT",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 13,
+      "title": "KIM THUỲ",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 13,
+      "title": "HEAD OF HR",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 13,
+      "title": "MAI XUÂN",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 13,
+      "title": "QUỲNH  TRANG",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 13,
+      "title": "HEAD  OF  MARKETING",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 13,
+      "title": "MINH ĐẠT",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 13,
+      "title": "HEAD  OF  TOUR",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 13,
+      "title": "THANH HẰNG",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 13,
+      "title": "HEAD  OF  TOUR",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 14,
+      "title": "RECRUITMENT 2026",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 16,
+      "title": "Recruitment",
+      "kids": [
+        {
+          "type": "page",
+          "page": 16,
+          "title": "Meet your people"
+        },
+        {
+          "type": "page",
+          "page": 16,
+          "title": "Explore",
+          "kids": [
+            {
+              "type": "page",
+              "page": 16,
+              "title": "Grow Beyond Yourself",
+              "kids": [
+                {
+                  "type": "page",
+                  "page": 16,
+                  "title": "Chiến dịch tuyển thành viên hằng năm, chào đón những gương mặt mới đầy nhiệt huyết cho đại gia đình SGHP"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 17,
+      "title": "Yearbook",
+      "kids": [
+        {
+          "type": "page",
+          "page": 17,
+          "title": "Yearbook’26",
+          "kids": [
+            {
+              "type": "page",
+              "page": 17,
+              "title": "Memories we made!"
+            },
+            {
+              "type": "page",
+              "page": 17,
+              "title": "Full of stories"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 18,
+      "title": "Year End Party",
+      "kids": [
+        {
+          "type": "page",
+          "page": 18,
+          "title": "Bữa tiệc mừng tuổi mới của Saigon Hotpot, nơi các thế hệ thành viên gặp gỡ và cùng nhau ôn lại kỷ niệm đáng nhớ."
+        },
+        {
+          "type": "page",
+          "page": 18,
+          "title": "Moments"
+        },
+        {
+          "type": "page",
+          "page": 18,
+          "title": "we shared"
+        },
+        {
+          "type": "page",
+          "page": 18,
+          "title": "Yep’25",
+          "kids": [
+            {
+              "type": "page",
+              "page": 19,
+              "title": "Tour"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 19,
+      "title": "Internal",
+      "kids": [
+        {
+          "type": "page",
+          "page": 19,
+          "title": "Marketing"
+        },
+        {
+          "type": "page",
+          "page": 19,
+          "title": "Knowledge"
+        },
+        {
+          "type": "page",
+          "page": 19,
+          "title": "Exchange",
+          "kids": [
+            {
+              "type": "page",
+              "page": 19,
+              "title": "Human resources"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 19,
+      "title": "training",
+      "kids": [
+        {
+          "type": "page",
+          "page": 20,
+          "title": "Amazing"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 20,
+      "title": "race",
+      "kids": [
+        {
+          "type": "page",
+          "page": 20,
+          "title": "Hoạt động kết hợp vận động và thử thách đồng đội quanh TP.HCM, vừa vui chơi, rèn luyện sức khỏe, vừa giúp các thành viên thêm gắn kết. "
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 21,
+      "title": "Camping",
+      "kids": [
+        {
+          "type": "page",
+          "page": 21,
+          "title": "SKy"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 21,
+      "title": "Lantern",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 22,
+      "title": "RECRUITMENT 2026",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 25,
+      "title": "RECRUITMENT 2026",
+      "kids": [
+        {
+          "type": "page",
+          "page": 26,
+          "title": "JOB DESCRIPTION"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 26,
+      "title": "RECRUITMENT 2026",
+      "kids": [
+        {
+          "type": "page",
+          "page": 27,
+          "title": "CÁC DỰ ÁN ĐÃ THỰC HIỆN VÀ DỰ KIẾN CHỦ TRÌ THỰC HIỆN TRONG NĂM 2026",
+          "kids": [
+            {
+              "type": "page",
+              "page": 27,
+              "title": "Internal Soft Skill Training"
+            },
+            {
+              "type": "page",
+              "page": 27,
+              "title": "Recruitment 2026"
+            },
+            {
+              "type": "page",
+              "page": 27,
+              "title": "SGHP’s Birthday 2026"
+            },
+            {
+              "type": "page",
+              "page": 27,
+              "title": "Yearbook 2026"
+            },
+            {
+              "type": "page",
+              "page": 27,
+              "title": "Club merchandise 2026"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 27,
+      "title": "MARKETING",
+      "kids": [
+        {
+          "type": "page",
+          "page": 27,
+          "title": "MÔ TẢ CÔNG VIỆC"
+        },
+        {
+          "type": "page",
+          "page": 27,
+          "title": "QUYỀN LỢI",
+          "kids": [
+            {
+              "type": "page",
+              "page": 27,
+              "title": "Brainstorm, lên chiến dịch truyền thông cho tệp khán giả là cộng đồng sinh viên trong nước và du khách ngoài nước, cũng như các dự án khác của CLB."
+            },
+            {
+              "type": "page",
+              "page": 27,
+              "title": "Cập nhật, quản lý nội dung và hình ảnh website của SGHP.",
+              "kids": [
+                {
+                  "type": "page",
+                  "page": 27,
+                  "title": "SÁNG TẠO & THIẾT KẾ"
+                },
+                {
+                  "type": "page",
+                  "page": 27,
+                  "title": "KỸ NĂNG & CHUYÊN MÔN"
+                },
+                {
+                  "type": "page",
+                  "page": 27,
+                  "title": "NETWORKING"
+                },
+                {
+                  "type": "page",
+                  "page": 27,
+                  "title": "OWN YOUR PROJECT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 27,
+          "title": "YÊU CẦU",
+          "kids": [
+            {
+              "type": "page",
+              "page": 27,
+              "title": "BUILD YOUR PORTFOLIO"
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 27,
+          "title": "ĐIỂM CỘNG NẾU BẠN:"
+        },
+        {
+          "type": "page",
+          "page": 28,
+          "title": "JOB DESCRIPTION"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 28,
+      "title": "RECRUITMENT 2026",
+      "kids": [
+        {
+          "type": "page",
+          "page": 29,
+          "title": "CÁC DỰ ÁN ĐÃ THỰC HIỆN VÀ DỰ KIẾN CHỦ TRÌ THỰC HIỆN TRONG NĂM 2026",
+          "kids": [
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Camping 2026"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Club Meeting (2 tháng/lần)"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Recruitment 2026"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "SGHP’s Birthday 2026"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Year End Party 2026"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 29,
+      "title": "HR",
+      "kids": [
+        {
+          "type": "page",
+          "page": 29,
+          "title": "MÔ TẢ CÔNG VIỆC",
+          "kids": [
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Quản lý nhân sự và các công việc nội bộ: Theo dõi"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "sự tham gia, đóng góp và tiến độ công việc của từng thành viên."
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Đồng thời đề xuất khen thưởng hoặc xử lý vi phạm nội bộ (nếu có)"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Chăm sóc đời sống tinh thần của thành viên trong CLB"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Đảm nhận đợt tuyển thành viên hàng năm"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Tổ chức các buổi training kỹ năng cho thành viên toàn CLB"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Tổ chức các sự kiện kết nối các thành viên trong CLB như Camping, Amazing Race, Year End Party"
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 29,
+          "title": "QUYỀN LỢI",
+          "kids": [
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Phát triển kỹ năng làm việc nhóm, tổ chức sự kiện, kỹ năng giao tiếp, kỹ năng lãnh đạo"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Có cơ hội tương tác, mở rộng network với các thành viên và anh chị alumni có kinh nghiệm trong lĩnh vực tổ chức sự kiện, du lịch, ..."
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Môi trường để mở rộng mối quan hệ, cùng chia sẻ niềm đam mê du lịch và được làm việc với các sinh viên năng động đến từ nhiều trường đại học khác nhau."
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Được cung cấp kiến thức về văn hóa và lịch sử Sài Gòn từ những nguồn thông tin xác thực."
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 29,
+          "title": "YÊU CẦU"
+        },
+        {
+          "type": "page",
+          "page": 29,
+          "title": "PHẨM CHẤT CÁ NHÂN:"
+        },
+        {
+          "type": "page",
+          "page": 29,
+          "title": "KỸ NĂNG:"
+        },
+        {
+          "type": "page",
+          "page": 29,
+          "title": "ĐIỂM CỘNG NẾU BẠN:",
+          "kids": [
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Có kinh nghiệm với vị trí HR, từng chạy dự án hoặc tổ chức sự kiện"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Thành thạo hoặc sử dụng tốt các công cụ như Canva, PowerPoint hoặc các phần mềm thiết kế khác"
+            },
+            {
+              "type": "page",
+              "page": 29,
+              "title": "Có khả năng quản lý, phân tích dữ liệu"
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 30,
+          "title": "JOB DESCRIPTION"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 30,
+      "title": "RECRUITMENT 2026",
+      "kids": [
+        {
+          "type": "page",
+          "page": 31,
+          "title": "CÁC DỰ ÁN ĐÃ THỰC HIỆN VÀ DỰ KIẾN CHỦ TRÌ THỰC HIỆN TRONG NĂM 2026",
+          "kids": [
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Tour Operator Team Recruitment"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Active Training"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Feedback Project"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "SGHP’s Birthday 2026"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Training Newbies 2026"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "R&D"
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 31,
+          "title": "QUYỀN LỢI",
+          "kids": [
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Rèn luyện các kỹ năng mềm cần thiết: kỹ năng tư duy phản biện, kỹ năng teamwork, giao tiếp, lãnh đạo, lập kế hoạch, tổ chức hoạt động,..."
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Được training về nghiệp vụ hướng dẫn cơ bản"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Có cơ hội làm việc với vai trò điều hành Tour và nghiên cứu viên giúp phát triển các gói tour trong phạm vi CLB"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Phát triển kỹ năng giải quyết tình huống"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Gặp gỡ và làm việc với những thành viên tài năng và luôn sẵn sàng chia sẻ kinh nghiệm, bài học vô cùng bổ ích"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 31,
+      "title": "TOUR",
+      "kids": [
+        {
+          "type": "page",
+          "page": 31,
+          "title": "MÔ TẢ CÔNG VIỆC",
+          "kids": [
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Lên kế hoạch và tổ chức các hoạt động training về các gói Tour"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Chịu trách nhiệm đào tạo kiến thức + nghiệp vụ hướng dẫn cho các thành viên CLB"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Tìm hiểu, nghiên cứu địa điểm, văn hóa về TP Hồ Chí Minh, không ngừng update các gói tour"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Là ban đại diện SGHP giao tiếp trực tiếp với khách hàng"
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 31,
+          "title": "YÊU CẦU",
+          "kids": [
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Có tinh thần sẵn sàng học hỏi"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Có khả năng tư duy sáng tạo"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Có khả năng research và chọn lọc thông tin"
+            },
+            {
+              "type": "page",
+              "page": 31,
+              "title": "Có niềm yêu thích và sự hiểu biết về lịch sử và văn hóa ở Sài Gòn nói riêng và Việt Nam nói chung"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 32,
+      "title": "RECRUITMENT 2026",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 33,
+      "title": "QUY TRÌNH TUYỂN",
+      "kids": [
+        {
+          "type": "page",
+          "page": 33,
+          "title": "Round 1: CV&Application Form",
+          "kids": [
+            {
+              "type": "page",
+              "page": 33,
+              "title": "[23/8/2026 - 23/9/2026]"
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 33,
+          "title": "Round 2:  Teamwork&Presentation",
+          "kids": [
+            {
+              "type": "page",
+              "page": 33,
+              "title": "[17/10 /2026 - 18/10/2026]"
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 33,
+          "title": "Round  3: Interview",
+          "kids": [
+            {
+              "type": "page",
+              "page": 33,
+              "title": "[01/11/2026]"
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 33,
+          "title": "Round  4: Training&Trial Tour",
+          "kids": [
+            {
+              "type": "page",
+              "page": 33,
+              "title": "[21/11/2026 - 28/02/2027]"
+            },
+            {
+              "type": "page",
+              "page": 33,
+              "title": "RECRUITMENT 2026"
+            },
+            {
+              "type": "page",
+              "page": 33,
+              "title": "RECRUITMENT 2026"
+            }
+          ]
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 34,
+      "title": "CV &",
+      "kids": [
+        {
+          "type": "page",
+          "page": 34,
+          "title": "ROUND 1"
+        },
+        {
+          "type": "page",
+          "page": 34,
+          "title": "APPLICATION FORM",
+          "kids": [
+            {
+              "type": "page",
+              "page": 34,
+              "title": "23/8 - 23/9"
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "page": 35,
+          "title": "ROUND 2"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 35,
+      "title": "TEAMWORK&",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 35,
+      "title": "PRESENTATION",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 35,
+      "title": "17/10 - 18/10",
+      "kids": [
+        {
+          "type": "page",
+          "page": 36,
+          "title": "ROUND 3"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 36,
+      "title": "INTERVIEW",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 36,
+      "title": "01/11/2026",
+      "kids": [
+        {
+          "type": "page",
+          "page": 37,
+          "title": "21/11 - 6/12"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 37,
+      "title": "OUTDOOR",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 37,
+      "title": "TRAINING",
+      "kids": [
+        {
+          "type": "page",
+          "page": 37,
+          "title": "20/12"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 37,
+      "title": "INDOOR",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 37,
+      "title": "TRAINING",
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 37,
+      "title": "TRIAL TOUR",
+      "kids": [
+        {
+          "type": "page",
+          "page": 37,
+          "title": "25/12 - 31/1  &  15/2 - 28/2"
+        },
+        {
+          "type": "page",
+          "page": 38,
+          "title": "INSTAGRAM"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 38,
+      "title": "CÁC KÊNH TRUYỀN THÔNG",
+      "kids": [
+        {
+          "type": "page",
+          "page": 38,
+          "title": "TIKTOK"
+        },
+        {
+          "type": "page",
+          "page": 38,
+          "title": "FACEBOOK"
+        },
+        {
+          "type": "page",
+          "page": 38,
+          "title": "WEBSITE"
+        },
+        {
+          "type": "page",
+          "page": 38,
+          "title": "TRIPADVISOR"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    },
+    {
+      "type": "page",
+      "page": 38,
+      "title": "THÔNG TIN LIÊN HỆ",
+      "kids": [
+        {
+          "type": "page",
+          "page": 38,
+          "title": "Ms. Bảo Hân - 0784210206 (Project Leader)"
+        },
+        {
+          "type": "page",
+          "page": 38,
+          "title": "Mr. Ngọc Khôi - 0949669592 (Project Leader)"
+        },
+        {
+          "type": "page",
+          "page": 38,
+          "title": "Ms. Mai Xuân - 0899927606 (Head of HR)"
+        }
+      ],
+      "style": null,
+      "color": null,
+      "background": null
+    }
+  ],
+  "links": [
+    {
+      "page": 38,
+      "url": "https://www.instagram.com/saigonhotpot1111/",
+      "left": 9.999999832073888,
+      "top": 23.127650250689356,
+      "width": 81.39086498740554,
+      "height": 58.95784697712436
+    },
+    {
+      "page": 38,
+      "url": "https://saigonhotpot.com/",
+      "left": 25.566742905121746,
+      "top": 61.56324400354056,
+      "width": 21.796625692695212,
+      "height": 1.6769516599356136
+    }
+  ]
+}
